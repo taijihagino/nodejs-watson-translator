@@ -3,5 +3,27 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "ibm-watson": "^6.0.4"
-  }
+  },
+  "name": "nodejs-watson-translator",
+  "description": "Node.jsアプリからIBM Watson Language Translatorを呼び出すサンプルです。",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taijihagino/nodejs-watson-translator.git"
+  },
+  "keywords": [
+    "watson.",
+    "translator"
+  ],
+  "author": "taijihagino",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/taijihagino/nodejs-watson-translator/issues"
+  },
+  "homepage": "https://github.com/taijihagino/nodejs-watson-translator#readme"
 }
